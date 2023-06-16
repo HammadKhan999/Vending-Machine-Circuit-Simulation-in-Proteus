@@ -1,7 +1,7 @@
 # Vending-Machine-Circuit-Simulation-in-Proteus
-design and simulate a circuit for a vending machine using
+design and simulation of circuit for a vending machine using
 switches, lamps (LEDs) and seven segment displays. The following design
-specifications are to be followed:
+specifications are followed:
 1. The vending machine takes two types of inputs, coins and choice of
 product.
 2. The vending machine should accept and differentiate between different
